@@ -1,4 +1,4 @@
-![Faraday Logo](https://raw.github.com/wiki/infobyte/faraday/images/Faraday-Logo.png)
+![Faraday Logo](https://www.faradaysec.com/images/logo.png)
 
 Faraday introduces a new concept - IPE (Integrated Penetration-Test Environment) a multiuser Penetration test IDE. Designed for distribution, indexation and analysis of the data generated during a security audit.
 
